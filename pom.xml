@@ -8,7 +8,7 @@
   <name>hello-world-servlet-example Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <reporting>
-    <build>
+    
   <plugins>
     <plugin>
       <groupId>org.jacoco</groupId>
@@ -30,7 +30,7 @@
       </executions>
     </plugin>
   </plugins>
-</build>
+
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-checkstyle-plugin</artifactId>
